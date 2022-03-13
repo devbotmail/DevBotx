@@ -1,0 +1,2 @@
+# DevBotx
+Ini Adalah bot yang baru saya tambahkan, dari gabungan dua script bot, kalo eror lapor! Sc ini kalian bisa edit sendiri, dengan cara aktifkan situs desktop, chorme titik tiga pojok kanan atas, terus di fork/klik tombol fork di bagian kanan atas github ini... sc = free, kendala? Hubungi partnernya: https://wa.me/6289518487462?text=bang,+sy+mengalami+masalah+githubnya+abang!!!+jadi,...+tolong+bantu
